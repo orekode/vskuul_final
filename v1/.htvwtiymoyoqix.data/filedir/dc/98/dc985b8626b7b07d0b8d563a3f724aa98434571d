@@ -1,0 +1,8 @@
+username,firstname,lastname,email,course1,role1
+pmens,Philip,Mensah,philip.mensah@gmail.com,ICT,student
+adoe,Anna,Doe,anna.doe@example.com,ICT,student
+bparker,Braddy,Parker,brad.parker@example.com,ICT,student
+cjones,Cathy,Jones,cathy.jones@example.com,ICT,student
+dclark,David,Clalrk,david.clark@example.com,ICT,student
+ejohnson,Emily,Johnson,emily.johnson@example.com,,student
+fwhite,Frank,White,frank.white@example.com,ICT,student
