@@ -1,5 +1,0 @@
-username,password,firstname,lastname,email,role1,course1
-student3,hashedpassword1,John,Doe,johndoe1@example.com,student,Chem101
-student4,hashedpassword2,Jane,Smith,janesmith1@example.com,student,Chem101
-teacher5,hashedpassword3,Michael,Johnson,michaeljohnson1@example.com,teacher,Chem101
-
